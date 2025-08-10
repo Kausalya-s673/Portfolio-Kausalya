@@ -110,7 +110,7 @@ body {
   .navbar a {
     padding: 8px 12px;
     font-size: 14px;
-    border-radius: 8px;
+    border-radius: 40px;
   }
 
   .navbar a.active {
