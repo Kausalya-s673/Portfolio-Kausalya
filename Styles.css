@@ -88,7 +88,7 @@ body {
 }
 
 /* Mobile view - wrapping */
-@media (max-width: 768px) {
+@media (max-width: 640px) {
   .header {
     top: 0;
     left: 0;
